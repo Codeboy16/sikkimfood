@@ -1,0 +1,13 @@
+.Menu{
+    border:none;
+    box-shadow: 0px 0px 20px rgb(33, 57, 112);
+    overflow: hidden;
+}
+.Ordertop{
+    background: linear-gradient(0deg, rgb(201, 188, 244) 0%, rgb(255, 255, 255) 95.83%);
+    margin-bottom: 20px;
+}
+.zoom:hover{
+    scale:1.1;
+    transition: all ease 1s;
+}
